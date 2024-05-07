@@ -7,8 +7,7 @@ R is free software and comes with ABSOLUTELY NO WARRANTY.
 You are welcome to redistribute it under certain conditions.
 Type 'license()' or 'licence()' for distribution details.
 
-  > setwd("C:\Users\HP\Documents\R programming")
-Error: '\U' used without hex digits in character string (<input>:1:11)
+
 > setwd("C:/Users/HP/Documents/R programming")
 > read.csv("camden/Camden/tables/KS201EW_oa11.csv")
 ---Output
