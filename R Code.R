@@ -1,13 +1,4 @@
 
-R version 4.4.0 (2024-04-24 ucrt) -- "Puppy Cup"
-Copyright (C) 2024 The R Foundation for Statistical Computing
-Platform: x86_64-w64-mingw32/x64
-
-R is free software and comes with ABSOLUTELY NO WARRANTY.
-You are welcome to redistribute it under certain conditions.
-Type 'license()' or 'licence()' for distribution details.
-
-
 > setwd("C:/Users/HP/Documents/R programming")
 > read.csv("camden/Camden/tables/KS201EW_oa11.csv")
 ---Output
